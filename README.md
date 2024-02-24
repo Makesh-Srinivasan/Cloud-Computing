@@ -2,7 +2,7 @@
 This repository contains the projects we worked on for the course 'Cloud Computing and Big data' with Prof. Sambit Sahu of NYU and Columbia University<br><br>
 <strong>Team members:</strong>
 - Makesh Srinivasan (MS15138)
-- Aditya Joshi (AJ412)
+- Aditya Deepak Joshi (AJ4128)
 <br><br>
 
 
